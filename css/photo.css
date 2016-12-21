@@ -1,8 +1,9 @@
 section {
-	margin: 50px;
+	margin-left: 150px;
+	margin-right: 50px;
 }
-.example-image {
-	margin:50px;
+.example-image-link {
+	margin:15px;
 }
 body {
     background-color: white;
