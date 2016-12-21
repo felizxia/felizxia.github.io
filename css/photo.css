@@ -5,6 +5,9 @@ section {
 .example-image-link {
 	margin:15px;
 }
+.header {
+	margin:100px;
+}
 body {
     background-color: white;
 }
